@@ -1,2 +1,1 @@
-
-Science changes; this website shows some of the biggest changes in science we discussed.
+For the Big Bang to Humankind final project, I wanted create some games that reflect what we've learned in BBtHk. The games are meant as a simple puzzle/visual tool to help understand content, and to  have fun will a science themed game. Enjoy!
