@@ -10,7 +10,7 @@ header {
     align-items: center;
     justify-content: space-between;
     padding: 20px;
-    background-color: #333;
+    background-color: #228B22;
     color: #fff;
 }
 
@@ -20,6 +20,10 @@ header {
     margin: 10px 0;
     padding: 30px;
 }
+
+.description p {
+    text-align: left;
+}
   
 /* Style the grid container */
 .grid {
@@ -27,13 +31,15 @@ header {
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 10px;
     padding: 10px;
+    text-decoration: none;
 }
   
 /* Style the grid items */
 .grid-item {
-    background-color: #333;
+    background-color: #99CCFF;
     color: #fff;
     padding: 20px;
+    text-decoration: none;
     text-align: center;
 }
 
@@ -44,5 +50,6 @@ header {
 }
 
 .grid-item:hover {
-    background-color: #555;
+    text-decoration: none;
+    background-color: #0066CC;
 }
